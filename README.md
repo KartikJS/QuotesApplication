@@ -1,6 +1,6 @@
 # GREAT QUOTES
 
-![App Screenshot](src/img/QuotesApp.png)
+![App Screenshot](src/img/QuotesApppng)
 
 
 ## Demo
