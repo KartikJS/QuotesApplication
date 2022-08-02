@@ -5,7 +5,7 @@
 
 ## Demo
 
-https://reactquotesappg.web.app/quotes
+[View Demo](https://reactquotesappg.web.app/quotes)
 
 ## About The Project
 
